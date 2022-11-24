@@ -469,6 +469,7 @@ footer .copy {
     grid-template-columns: 1fr 4fr;
     gap: 1rem;
     margin: 1rem auto;
+    align-items: center;
   }
   p.step_desc {
     grid-column: 1/3;
