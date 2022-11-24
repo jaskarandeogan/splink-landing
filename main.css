@@ -19,6 +19,22 @@ a:hover{
   font-weight: 500;
 }
 
+main .hero_part .hero_description  button:hover{
+  cursor: pointer;
+  background: #f6f8ff;
+  border: 1px solid #7575ea;
+  color: #7575ea;
+}
+
+#contact .contact_form_list form .submit_btn button:hover{
+  cursor: pointer;
+  background: #f6f8ff;
+  border: 1px solid #7575ea;
+  color: #7575ea;
+}
+
+
+
 body,
 h1,
 h2,
@@ -57,9 +73,6 @@ img {
   padding: 150px 0 64px 0;
 }
 
-.section-header{
-
-}
 
 /*HEADER*/
 header {
