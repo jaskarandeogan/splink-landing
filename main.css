@@ -24,6 +24,7 @@ main .hero_part .hero_description  button:hover{
   background: #f6f8ff;
   border: 1px solid #7575ea;
   color: #7575ea;
+  transition: .4s;
 }
 
 #contact .contact_form_list form .submit_btn button:hover{
